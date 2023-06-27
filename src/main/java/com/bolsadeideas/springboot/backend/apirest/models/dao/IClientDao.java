@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/springframework/Repository.java to edit this template
  */
-package com.bolsadeideas.springboot.backend.apirest.newpackage.models.dao;
+package com.bolsadeideas.springboot.backend.apirest.models.dao;
 
 import com.bolsadeideas.springboot.backend.apirest.models.entity.Cliente;
 import org.springframework.data.repository.CrudRepository;

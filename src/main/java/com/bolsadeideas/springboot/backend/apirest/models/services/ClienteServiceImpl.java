@@ -3,7 +3,7 @@ package com.bolsadeideas.springboot.backend.apirest.models.services;
 import com.bolsadeideas.springboot.backend.apirest.models.entity.Cliente;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
-import com.bolsadeideas.springboot.backend.apirest.newpackage.models.dao.IClientDao;
+import com.bolsadeideas.springboot.backend.apirest.models.dao.IClientDao;
 import javax.transaction.Transactional;
 import org.springframework.stereotype.Service;
 
